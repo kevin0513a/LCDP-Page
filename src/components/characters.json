@@ -1,0 +1,60 @@
+{
+    "reparto": [
+        {
+            "id": 1,
+            "nombre": "Úrsula Corberó",
+            "character": "Tokyo",
+            "url": "https://hips.hearstapps.com/hmg-prod/images/ursula-corbero-attends-el-cuerpo-en-llamas-premiere-at-news-photo-1694071377.jpg",
+            "description": "Úrsula Corberó es una actriz española conocida por su papel como Tokyo en La Casa de Papel. Nació el 11 de agosto de 1989 en Barcelona, España."
+        },
+        {
+            "id": 2,
+            "nombre": "Álvaro Morte",
+            "character": "El Profesor",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Premios_Goya_2020_-_%C3%81lvaro_Morte_%28Cropped%29.jpg",
+            "description": "Álvaro Morte es un actor español famoso por interpretar a El Profesor en La Casa de Papel. Nació el 23 de febrero de 1975 en Algeciras, Cádiz, España."
+        },
+        {
+            "id": 3,
+            "nombre": "Pedro Alonso",
+            "character": "Berlin",
+            "url": "https://image.europafm.com/clipping/cmsimages02/2021/11/20/94D1D15F-3E27-4C4D-A9B4-EC961C83E424/104.jpg?crop=1280,1280,x325,y0&width=1200&height=1200&optimize=low&format=webply",
+            "description": "Pedro Alonso interpreta a Ricardo Ramos, apodado Berlin, el líder aparentemente frío y calculador del grupo. Berlin es el hermano de El Profesor y desempeña un papel clave en el atraco."
+        },
+        {
+            "id": 4,
+            "nombre": "Miguel Herrán",
+            "character": "Rio",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Festival_de_M%C3%A1laga_2020_-_Miguel_Herr%C3%A1n-2.jpg/1200px-Festival_de_M%C3%A1laga_2020_-_Miguel_Herr%C3%A1n-2.jpg",
+            "description": "Miguel Herrán interpreta a Aníbal Cortés, apodado Rio, un joven hacker talentoso y miembro clave del grupo. Rio desarrolla una relación cercana con Tokyo a lo largo de la serie."
+        },
+        {
+            "id": 5,
+            "nombre": "Alba Flores",
+            "character": "Nairobi",
+            "url": "https://images.mubicdn.net/images/cast_member/634536/cache-345185-1528494657/image-w856.jpg",
+            "description": "Alba Flores da vida a Sergio Marquina, conocida como Nairobi, la experta en falsificación y manipulación de dinero. Nairobi destaca por su inteligencia y liderazgo en momentos cruciales."
+        },
+        {
+            "id": 6,
+            "nombre": "Jaime Lorente",
+            "character": "Denver",
+            "url": "https://hips.hearstapps.com/hmg-prod/images/jaime-lorent-1633184844.jpg?crop=0.666xw:1.00xh;0.0606xw,0&resize=640:*",
+            "description": "Jaime Lorente interpreta a Ricardo Ramos Jr., también conocido como Denver, el hijo de Berlin. Denver es un personaje sensible y leal, desempeñando un papel esencial en el atraco."
+        },
+        {
+            "id": 7,
+            "nombre": "Paco Tous",
+            "character": "Moscow",
+            "url": "https://images.ecestaticos.com/CH80seprHbGmhpaLhpJW6jH3Sck=/0x165:2275x1871/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F64c%2F55a%2Fc91%2F64c55ac91587a80b938609ddea5e2fa0.jpg",
+            "description": "Paco Tous interpreta a Agustín Ramos, apodado Moscow, el padre de Denver y un experto en perforaciones. Moscow agrega un toque de sabiduría y calma al grupo."
+        },
+        {
+            "id": 8,
+            "nombre": "Darko Perić",
+            "character": "Helsinki",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Darko-Peric.jpg/1200px-Darko-Peric.jpg",
+            "description": "Darko Perić interpreta a Ricardo Ramos, apodado Helsinki, un miembro fuerte y silencioso del grupo. Helsinki tiene habilidades en combate y desempeña un papel crucial en momentos de tensión."
+        }
+    ]
+}
